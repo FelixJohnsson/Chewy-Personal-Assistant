@@ -1,0 +1,19 @@
+{
+  "name": "b.r.a.i.n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ears.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.4.1",
+    "mongoose": "^5.8.3",
+    "node": "^13.5.0",
+    "nodemon": "^2.0.2"
+  }
+}
